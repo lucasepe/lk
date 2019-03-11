@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 
 	"github.com/dchest/uniuri"
-	"github.com/hyperboloide/lk"
+	"github.com/lucasepe/lk"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
