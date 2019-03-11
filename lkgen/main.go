@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/hyperboloide/lk"
+	"github.com/lucasepe/lk"
 
 	"gopkg.in/alecthomas/kingpin.v2"
 )
